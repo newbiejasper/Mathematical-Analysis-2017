@@ -30,6 +30,7 @@
 * 想学python的，用anaconda
 * 文本编辑器选择sublime text
 * latex配置，我已经写好了[教程](https://github.com/newbiejasper/computer-skills/blob/master/windows%E4%B8%8Blatex%E7%BC%96%E8%AF%91.md)
+* 学校给大家提供了正版windows,正版office,正版matlab，所以别再到处下病毒了。
 
 
 
